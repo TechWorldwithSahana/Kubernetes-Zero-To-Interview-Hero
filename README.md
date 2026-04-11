@@ -17,7 +17,7 @@
 
 | # | Chapter | Topics | Notes |
 |---|---------|--------|-------|
-| 01 | [Introduction to Kubernetes](#-chapter-1--introduction-to-kubernetes) | Containers, Architecture, Pods, Services | [📖 Buy eBook](https://topmate.io/sahana_ghosh/1974847) |
+| 01 | [Introduction to Kubernetes](#-chapter-1--introduction-to-kubernetes) | Containers, Architecture, Pods, Services | [📖 Buy eBook](https://topmate.io/sahana_ghosh/) |
 | 02 | [Architecture](#-chapter-2--architecture) | Control Plane, Worker Node, etcd, kubelet | Coming soon |
 | 03 | [Pods Deep Dive](#-chapter-3--pods-deep-dive) | Lifecycle, Init Containers, Multi-container, YAML | Coming soon |
 | 04 | [ReplicaSets & Deployments](#-chapter-4--replicasets--deployments) | Rolling updates, Rollbacks, Blue-Green, Canary | Coming soon |
