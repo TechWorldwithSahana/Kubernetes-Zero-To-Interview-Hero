@@ -4,7 +4,7 @@
 
 ### A free, structured Kubernetes course for engineers preparing for DevOps interviews
 
-[![YouTube](https://img.shields.io/badge/TechWorld_with_Sahana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://https://www.youtube.com/@TechWorldWithSahana)
 [![eBooks](https://img.shields.io/badge/eBooks-6C47FF?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/sahana_ghosh/1974847)
 
 > If this helped you, drop a ⭐ — it helps others find this resource!
