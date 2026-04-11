@@ -4,8 +4,8 @@
 
 ### A free, structured Kubernetes course for engineers preparing for DevOps interviews
 
-[![YouTube](https://img.shields.io/badge/YouTube-TechWorld_with_Sahana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn)
-[![Topmate](https://img.shields.io/badge/Topmate-Buy_Chapter_Notes-6C47FF?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/sahana_ghosh/1974847)
+[![YouTube](https://img.shields.io/badge/TechWorld_with_Sahana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn)
+[![eBooks](https://img.shields.io/badge/eBooks-6C47FF?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/sahana_ghosh/1974847)
 
 > If this helped you, drop a ⭐ — it helps others find this resource!
 
@@ -17,7 +17,7 @@
 
 | # | Chapter | Topics | Notes |
 |---|---------|--------|-------|
-| 01 | [Introduction to Kubernetes](#-chapter-1--introduction-to-kubernetes) | Containers, Architecture, Pods, Services | [📖 Buy eBook](https://topmate.io/sahana_ghosh/) |
+| 01 | [Introduction to Kubernetes](#-chapter-1--introduction-to-kubernetes) | Containers, Architecture, Pods, Services | [📖 Buy eBook](https://topmate.io/sahana_ghosh/1974847) |
 | 02 | [Architecture](#-chapter-2--architecture) | Control Plane, Worker Node, etcd, kubelet | Coming soon |
 | 03 | [Pods Deep Dive](#-chapter-3--pods-deep-dive) | Lifecycle, Init Containers, Multi-container, YAML | Coming soon |
 | 04 | [ReplicaSets & Deployments](#-chapter-4--replicasets--deployments) | Rolling updates, Rollbacks, Blue-Green, Canary | Coming soon |
