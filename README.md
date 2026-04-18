@@ -37,7 +37,8 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=FBgQOy4ZR4w&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn) [![eBook](https://img.shields.io/badge/Chapter_Notes-Buy_eBook_%2413-6C47FF?style=flat-square&logo=bookstack)](https://topmate.io/sahana_ghosh/1974847)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FBgQOy4ZR4w&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn)
+[![Chapter Notes / eBook](https://img.shields.io/badge/Chapter_Notes_/_eBook-6C47FF?style=for-the-badge&logo=bookstack&logoColor=white)](https://topmate.io/sahana_ghosh/1974847)
 
 </div>
 
@@ -70,7 +71,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=WceShXPOWrY&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=2)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=WceShXPOWrY&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=2)
 
 </div>
 
@@ -100,7 +101,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=lFjKGd3PoDc&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=3)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lFjKGd3PoDc&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=3)
 
 </div>
 
@@ -121,7 +122,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=K5_6nDyPJz8&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=4)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=K5_6nDyPJz8&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=4)
 
 </div>
 
@@ -142,7 +143,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=-aYxWOM8DsI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=5)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-aYxWOM8DsI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=5)
 
 </div>
 
@@ -161,7 +162,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=c7ccpmkuBS0&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=6)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=c7ccpmkuBS0&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=6)
 
 </div>
 
@@ -176,7 +177,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=2aSdormhraA&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=7)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2aSdormhraA&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=7)
 
 </div>
 
@@ -194,7 +195,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=yGOSK7qhOhU&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=8)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=yGOSK7qhOhU&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=8)
 
 </div>
 
@@ -211,7 +212,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YW3BFbXIB9U&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=9)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YW3BFbXIB9U&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=9)
 
 </div>
 
@@ -228,7 +229,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=BTmiBi4gDMI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=10)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=BTmiBi4gDMI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=10)
 
 </div>
 
@@ -245,7 +246,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=bTl4fOMl5pM&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=11)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=bTl4fOMl5pM&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=11)
 
 </div>
 
@@ -263,7 +264,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=jUhBaz6b57U&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=12)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jUhBaz6b57U&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=12)
 
 </div>
 
@@ -281,7 +282,7 @@
 
 <div align="right">
 
-[![YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=De8D-K4tyRI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=13)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=De8D-K4tyRI&list=PL8h_iS3fGq0KYUn8JfXF86pAzssaH_Frn&index=13)
 
 </div>
 
